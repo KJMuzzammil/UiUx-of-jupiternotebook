@@ -1,2 +1,2 @@
-# UiUx-of-jupiternotebook
-it is a basic ui/ux of jupiter notebook using node js
+# mileae prediction using ML
+it is a basic mileae prediction project
